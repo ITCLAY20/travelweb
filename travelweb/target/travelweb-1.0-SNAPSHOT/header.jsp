@@ -32,7 +32,8 @@
     <div class="header_wrap">
         <div class="topbar">
             <div class="logo">
-                <a href="/"><img src="images/logo.jpg" alt=""></a>
+<%--                <a href="/"><img src="images/logo.jpg" alt=""></a>--%>
+                <a><h1>旅游网</h1></a>
             </div>
             <div class="search">
                 <input id="rname" name="rname" type="text" placeholder="请输入路线名称" class="search_input" value="${rname}"

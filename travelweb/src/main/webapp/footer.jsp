@@ -41,6 +41,6 @@
         </dl>
     </div>
     <div class="company">
-        <p>江苏传智播客教育科技股份有限公司 版权所有Copyright 2006-2018, All Rights Reserved 苏ICP备16007882</p>
+        <p>ITCLAY 版权所有Copyright 2021, All Rights Reserved 陇ICP备2020004490号</p>
     </div>
 </footer>
